@@ -1,0 +1,1415 @@
+cip6,field,category
+110101,"Computer and information sciences, general",NSTEM
+110102,Artificial intelligence and robotics,NSTEM
+110103,Information technology,NSTEM
+110104,Informatics,NSTEM
+110199,"Computer science, other",NSTEM
+110201,"Computer programming/programmer, general",NSTEM
+110202,Computer programming special applications,NSTEM
+110203,"Computer Programming, Vendor/Product Certification",NSTEM
+110299,"Computer programming, other",NSTEM
+110301,Data processing and data processing technology/technician,NSTEM
+110401,Information science/studies,NSTEM
+110501,Computer systems analysis/analyst,NSTEM
+110701,Computer science,NSTEM
+110801,"Web page, digital/multimedia, and information resources design",NSTEM
+110802,Data modeling/warehousing and database administration,NSTEM
+110803,Computer graphics,NSTEM
+110804,"Modeling, virtual environments and simulation",NSTEM
+110899,"Computer software and media applications, other",NSTEM
+110901,Computer systems networking and telecommunications,NSTEM
+111001,System administration/administrator,NSTEM
+111002,"System, networking, and LAN/WAN management/manager",NSTEM
+111003,Computer and information systems security,NSTEM
+111004,Web/multimedia management and Webmaster,NSTEM
+111005,Information technology project management,NSTEM
+111006,Computer support specialist,NSTEM
+111099,"Computer/information technology services administration and management, other",NSTEM
+119999,"Computer and information sciences and support services, other",NSTEM
+400401,"Atmospheric sciences and meteorology, general",NSTEM
+400402,Atmospheric Chemistry and Climatology,NSTEM
+400403,Atmospheric physics and dynamics,NSTEM
+400404,Meteorology,NSTEM
+400499,"Atmospheric sciences and meteorology, other",NSTEM
+400601,"Geology/earth science, general",NSTEM
+400602,Geochemistry,NSTEM
+400603,Geophysics and seismology,NSTEM
+400604,Paleontology,NSTEM
+400606,Geochemistry and petrology,NSTEM
+400699,"Geological and earth sciences/geosciences, other",NSTEM
+261302,Marine biology and biological oceanography,NSTEM
+303201,Marine sciences,NSTEM
+400605,Hydrology and water resources science,NSTEM
+400607,"Oceanography, chemical and physical",NSTEM
+1,"Agriculture, general",NSTEM
+10103,Agricultural economics,NSTEM
+10308,Agroecology and sustainable agriculture,NSTEM
+10505,Animal Training,NSTEM
+10801,Agricultural and extension education services,NSTEM
+10802,Agricultural communication/journalism,NSTEM
+10899,"Agricultural public services, other",NSTEM
+10901,"Animal sciences, general",NSTEM
+10902,Agricultural animal breeding,NSTEM
+10903,Animal health,NSTEM
+10905,Dairy science,NSTEM
+10906,Livestock management,NSTEM
+10907,Poultry science,NSTEM
+10999,"Animal sciences, other",NSTEM
+11001,Food science,NSTEM
+11002,Food technology and processing,NSTEM
+11099,"Food science and technology, other",NSTEM
+11101,"Plant sciences, general",NSTEM
+11102,Agronomy and crop science,NSTEM
+11103,Horticultural science,NSTEM
+11104,Agricultural and horticultural plant breeding,NSTEM
+11105,Plant protection and integrated pest management,NSTEM
+11106,Range science and management,NSTEM
+11199,"Plant sciences, other",NSTEM
+11201,"Soil science and agronomy, general",NSTEM
+11202,Soil chemistry and physics,NSTEM
+11299,"Soil sciences, other",NSTEM
+19999,"Agriculture, agriculture operations, and related sciences, other",NSTEM
+30101,"Natural resources/conservation, general",NSTEM
+30103,Environmental studies,NSTEM
+30104,Environmental science,NSTEM
+30199,"Natural resources conservation and research, other",NSTEM
+30201,Natural resources management and policy,NSTEM
+30204,Natural resource economics,NSTEM
+30205,"Water, wetlands, and marine resources management",NSTEM
+30206,Land use planning and management/development,NSTEM
+30207,Natural resource recreation and tourism,NSTEM
+30208,Natural resources law enforcement and protective services,NSTEM
+30299,"Natural resources management and policy, other",NSTEM
+30301,Fishing and fisheries sciences and management,NSTEM
+30501,"Forestry, general",NSTEM
+30502,Forest sciences and biology,NSTEM
+30506,Forest management/forest resources management,NSTEM
+30508,Urban forestry,NSTEM
+30509,Wood science and wood products/pulp and paper technology,NSTEM
+3051,Forest resources production and management,NSTEM
+30599,"Forestry, other",NSTEM
+30601,Wildlife and wildlands science and management,NSTEM
+39999,"Natural resources and conservation, other",NSTEM
+190505,Food service systems administration/management,NSTEM
+260101,"Biology/biological sciences, general",NSTEM
+260102,"Biomedical sciences, general",NSTEM
+260202,Biochemistry,NSTEM
+260203,Biophysics,NSTEM
+260204,Molecular biology,NSTEM
+260205,Molecular biochemistry,NSTEM
+260206,Molecular biophysics,NSTEM
+260207,Structural biology,NSTEM
+260209,Radiation biology/radiobiology,NSTEM
+26021,Biochemistry/biophysics and molecular biology,NSTEM
+260299,"Biochemistry, biophysics, and molecular biology, other",NSTEM
+260301,Botany/plant biology,NSTEM
+260305,Plant pathology/phytopathology,NSTEM
+260307,Plant physiology,NSTEM
+260308,Plant molecular biology,NSTEM
+260399,"Botany/plant biology, other",NSTEM
+260401,Cell/cellular biology and histology,NSTEM
+260403,Anatomy,NSTEM
+260404,Developmental biology and embryology,NSTEM
+260406,Cell/cellular and molecular biology,NSTEM
+260407,Cell biology and anatomy,NSTEM
+260499,"Cell/cellular biology and anatomical sciences, other",NSTEM
+260502,"Microbiology, general",NSTEM
+260503,Medical microbiology and bacteriology,NSTEM
+260504,Virology,NSTEM
+260505,Parasitology,NSTEM
+260507,Immunology,NSTEM
+260508,Microbiology and immunology,NSTEM
+260599,"Microbiological sciences and immunology, other",NSTEM
+260701,Zoology/animal biology,NSTEM
+260702,Entomology,NSTEM
+260707,Animal physiology,NSTEM
+260708,Animal behavior and ethology,NSTEM
+260709,Wildlife biology,NSTEM
+260799,"Zoology/animal biology, other",NSTEM
+260801,"Genetics, general",NSTEM
+260802,Molecular genetics,NSTEM
+260804,Animal genetics,NSTEM
+260805,Plant genetics,NSTEM
+260806,Human/medical genetics,NSTEM
+260807,Genome sciences/genomics,NSTEM
+260899,"Genetics, other",NSTEM
+260901,"Physiology, general",NSTEM
+260902,Molecular physiology,NSTEM
+260903,Cell physiology,NSTEM
+260904,Endocrinology,NSTEM
+260905,Reproductive biology,NSTEM
+260907,Cardiovascular science,NSTEM
+260908,Exercise physiology,NSTEM
+260909,Vision science/physiological optics,NSTEM
+26091,Pathology/experimental pathology,NSTEM
+260911,Oncology and cancer biology,NSTEM
+260912,Aerospace Physiology and Medicine,NSTEM
+260999,"Physiology, pathology, and related sciences, other",NSTEM
+261001,Pharmacology,NSTEM
+261002,Molecular pharmacology,NSTEM
+261003,Neuropharmacology,NSTEM
+261004,Toxicology,NSTEM
+261005,Molecular toxicology,NSTEM
+261006,Environmental toxicology,NSTEM
+261007,Pharmacology and toxicology,NSTEM
+261099,"Pharmacology and Toxicology, Other",NSTEM
+261101,Biometry/biometrics,NSTEM
+261102,Biostatistics,NSTEM
+261103,Bioinformatics,NSTEM
+261104,Computational biology,NSTEM
+261199,"Biomathematics and bioinformatics, other",NSTEM
+261201,Biotechnology,NSTEM
+261301,Ecology,NSTEM
+261303,Evolutionary biology,NSTEM
+261304,Aquatic biology/limnology,NSTEM
+261305,Environmental biology,NSTEM
+261306,Population biology,NSTEM
+261307,Conservation biology,NSTEM
+261308,Systematic biology/biological systematics,NSTEM
+26131,Ecology and evolutionary biology,NSTEM
+261399,"Ecology, evolution, systematics, and population biology, other",NSTEM
+261401,Molecular medicine,NSTEM
+261501,Neuroscience,NSTEM
+261502,Neuroanatomy,NSTEM
+261503,Neurobiology and anatomy,NSTEM
+261504,Neurobiology and behavior,NSTEM
+261599,"Neurobiology and neurosciences, other",NSTEM
+269999,"Biological and biomedical sciences, other",NSTEM
+301001,Biopsychology,NSTEM
+301901,Nutrition sciences,NSTEM
+261309,Epidemiology,NSTEM
+310505,Kinesiology and exercise science,NSTEM
+510001,"Health and wellness, general",NSTEM
+510201,"Communication disorders, general",NSTEM
+510202,Audiology/audiologist and hearing sciences,NSTEM
+510203,Speech-language pathology/pathologist,NSTEM
+510204,Audiology/audiologist and speech-language pathology/pathologist,NSTEM
+510299,"Communication disorders sciences and services, other",NSTEM
+510501,"Dental clinical sciences, general",NSTEM
+510502,Advanced general dentistry,NSTEM
+510503,Oral biology and oral pathology,NSTEM
+510504,Dental public health and education,NSTEM
+510505,Dental materials,NSTEM
+510506,Endodontics/endodontology,NSTEM
+510507,Oral/maxillofacial surgery,NSTEM
+510508,Orthodontics/orthodontology,NSTEM
+510509,Pediatric dentistry/pedodontics,NSTEM
+51051,Periodontics/periodontology,NSTEM
+510511,Prosthodontics/prosthodontology,NSTEM
+510599,"Advanced/graduate dentistry and oral sciences, other",NSTEM
+510701,Health/health care administration/management,NSTEM
+510702,Hospital and health care facilities administration/management,NSTEM
+510706,Health information/medical records administration/administrator,NSTEM
+510717,Medical staff services technology/technician,NSTEM
+510799,"Health and medical administrative services, other",NSTEM
+510809,Anesthesiologist assistant,NSTEM
+510816,Speech-language pathology assistant,NSTEM
+510914,Gene/genetic therapy,NSTEM
+510915,Cardiopulmonary technology/technologist,NSTEM
+510916,Radiation protection/health physics technician,NSTEM
+510917,Polysomnography,NSTEM
+51092,Magnetic resonance imaging (MRI) technology/technician,NSTEM
+511101,Pre-dentistry studies,NSTEM
+511102,Pre-medicine/pre-medical studies,NSTEM
+511103,Pre-pharmacy studies,NSTEM
+511104,Pre-veterinary studies,NSTEM
+511105,Pre-nursing studies,NSTEM
+511107,Pre-occupational therapy studies,NSTEM
+511108,Pre-optometry studies,NSTEM
+511109, pre-physical therapy studies,NSTEM
+511401,"Medical scientist (MS, PhD)",NSTEM
+511699,"Nursing, other",NSTEM
+512001,Pharmacy,NSTEM
+512002,Pharmacy administration and pharmacy policy and regulatory affairs,NSTEM
+512003,Pharmaceutics and drug design,NSTEM
+512005,Natural products chemistry and pharmacognosy,NSTEM
+512006,Clinical and industrial drug development,NSTEM
+512007,Pharmacoeconomics/pharmaceutical economics,NSTEM
+512008,"Clinical, hospital, and managed care pharmacy",NSTEM
+512009,Industrial and physical pharmacy and cosmetic sciences,NSTEM
+51201,Pharmaceutical sciences,NSTEM
+512011,Pharmaceutical marketing and management,NSTEM
+512099,"Pharmacy, pharmaceutical sciences, and administration, other",NSTEM
+512201,"Public health, general",NSTEM
+512202,Environmental health,NSTEM
+512205,Health/medical physics,NSTEM
+512206,Occupational health and industrial hygiene,NSTEM
+512207,Public health education and promotion,NSTEM
+512208,Community health and preventive medicine,NSTEM
+512209,Maternal and child health,NSTEM
+51221,International public health/international health,NSTEM
+512211,Health services administration,NSTEM
+512212,Behavioral aspects of health,NSTEM
+512299,"Public health, other",NSTEM
+512306,Occupational therapy/therapist,NSTEM
+512308,Physical therapy/therapist,NSTEM
+512311,Kinesiotherapy/kinesiotherapist,NSTEM
+512312,Assistive/augmentative technology and rehabilitation engineering,NSTEM
+512313,Animal-assisted therapy,NSTEM
+512314,Rehabilitation science,NSTEM
+512501,"Veterinary sciences/veterinary clinical sciences, general",NSTEM
+512503,Veterinary physiology,NSTEM
+512504,Veterinary microbiology and immunobiology,NSTEM
+512505,Veterinary pathology and pathobiology,NSTEM
+512506,Veterinary toxicology and pharmacology,NSTEM
+512507,Large animal/food animal and equine surgery and medicine,NSTEM
+512508,Small/companion animal surgery and medicine,NSTEM
+512509,Comparative and laboratory animal medicine,NSTEM
+51251,Veterinary preventive medicine epidemiology and public health,NSTEM
+512511,Veterinary infectious diseases,NSTEM
+512599,"Veterinary biomedical and clinical sciences, other",NSTEM
+513101,Dietetics/dietitian,NSTEM
+513102,Clinical nutrition/nutritionist,NSTEM
+513104,Dietitian Assistant,NSTEM
+513199,"Dietetics and clinical nutrition services, other",NSTEM
+5133,"Alternative and complementary medicine and medical systems, general",NSTEM
+513301,Acupuncture,NSTEM
+513302,Traditional chinese/asian medicine and chinese herbology,NSTEM
+513303,Naturopathic Medicine/Naturopathy,NSTEM
+513305,Ayurvedic medicine/ayurveda,NSTEM
+513306,Holistic health,NSTEM
+513399,"Alternative and complementary medicine and medical systems, other",NSTEM
+513401,Direct entry midwifery,NSTEM
+513499,"Alternative and complementary medical support services, other",NSTEM
+513502,Asian bodywork therapy,NSTEM
+513599,"Somatic Bodywork and Related Therapeutic Services, Other",NSTEM
+513602,Yoga Teacher Training/Yoga Therapy,NSTEM
+513699,"Movement and mind-body therapies and education, other",NSTEM
+513702,Herbalism/herbalist,NSTEM
+513799,"Energy and biologically based therapies, other",NSTEM
+513801,Registered nursing/registered nurse,NSTEM
+513802,Nursing administration,NSTEM
+513803,Adult health nurse/nursing,NSTEM
+513804,Nurse anesthetist,NSTEM
+513805,Family practice nurse/nursing,NSTEM
+513806,Maternal/child health and neonatal nurse/nursing,NSTEM
+513807,Nurse midwife/nursing midwifery,NSTEM
+513808,Nursing science,NSTEM
+513809,Pediatric nurse/nursing,NSTEM
+51381,Psychiatric/mental health nurse/nursing,NSTEM
+513811,Public health/community nurse/nursing,NSTEM
+513812,Perioperative/operating room and surgical nurse/nursing,NSTEM
+513813,Clinical nurse specialist,NSTEM
+513814,Critical care nursing,NSTEM
+513815,Occupational and environmental health nursing,NSTEM
+513816,Emergency room/trauma nursing,NSTEM
+513817,Nursing education,NSTEM
+513818,Nursing practice,NSTEM
+513819,Palliative care nursing,NSTEM
+51382,Clinical nurse leader,NSTEM
+513821,Geriatric nurse/nursing,NSTEM
+513822,Women's health nurse/nursing,NSTEM
+513899,"Registered nursing, nursing administration, nursing research and clinical nursing",NSTEM
+513999,"Practical nursing, vocational nursing and nursing assistants, other",NSTEM
+519999,"Health professions and related clinical sciences, other",NSTEM
+270101,"Mathematics, general",NSTEM
+270103,Analysis and functional analysis,NSTEM
+270199,"Mathematics, other",NSTEM
+270301,Applied mathematics,NSTEM
+270303,Computational mathematics,NSTEM
+270304,Computational and applied mathematics,NSTEM
+270305,Financial mathematics,NSTEM
+270306,Mathematical biology,NSTEM
+270399,"Applied mathematics, other",NSTEM
+270501,"Statistics, general",NSTEM
+270502,Mathematical statistics and probability,NSTEM
+270503,Mathematics and statistics,NSTEM
+270599,"Statistics, other",NSTEM
+279999,"Mathematics and statistics, other",NSTEM
+521302,Business statistics,NSTEM
+521304,Actuarial science,NSTEM
+400201,Astronomy,NSTEM
+400202,Astrophysics,NSTEM
+400203,Planetary astronomy and science,NSTEM
+400299,"Astronomy and astrophysics, other",NSTEM
+400501,"Chemistry, general",NSTEM
+400502,Analytical chemistry,NSTEM
+400503,Inorganic chemistry,NSTEM
+400504,Organic chemistry,NSTEM
+400506,Physical and theoretical chemistry,NSTEM
+400507,Polymer chemistry,NSTEM
+400508,Chemical physics,NSTEM
+400509,Environmental chemistry,NSTEM
+40051,Forensic chemistry,NSTEM
+400511,Theoretical chemistry,NSTEM
+400599,"Chemistry, other",NSTEM
+512004,Medicinal and pharmaceutical chemistry,NSTEM
+400801,"Physics, general",NSTEM
+400802,Atomic/molecular physics,NSTEM
+400804,Elementary particle physics,NSTEM
+400806,Nuclear physics,NSTEM
+400807,Optics/optical sciences,NSTEM
+400808,Solid state and low-temperature physics,NSTEM
+400809,Acoustics,NSTEM
+40081,Theoretical and mathematical physics,NSTEM
+400899,"Physics, other",NSTEM
+400101,Physical sciences,NSTEM
+401002,Materials chemistry,NSTEM
+401099,"Materials sciences, other",NSTEM
+409999,"Physical sciences, other",NSTEM
+140201,"Aerospace, aeronautical, and astronautical engineering",NSTEM
+140501,Bioengineering and biomedical engineering,NSTEM
+140701,Chemical engineering,NSTEM
+140702,Chemical and biomolecular engineering,NSTEM
+140799,"Chemical engineering, other",NSTEM
+140801,"Civil engineering, general",NSTEM
+140802,Geotechnical engineering,NSTEM
+140803,Structural engineering,NSTEM
+140804,Transportation and highway engineering,NSTEM
+140805,Water resources engineering,NSTEM
+140899,"Civil engineering, other",NSTEM
+141001,Electrical and electronics engineering,NSTEM
+141003,Laser and optical engineering,NSTEM
+141004,Telecommunications engineering,NSTEM
+141099,"Electrical, electronics and communications engineering, other",NSTEM
+143501,Industrial engineering,NSTEM
+143601,Manufacturing engineering,NSTEM
+151501,Engineering/industrial management,NSTEM
+141801,Materials engineering,NSTEM
+401001,Materials science,NSTEM
+141901,Mechanical engineering,NSTEM
+140101,"Engineering, general",NSTEM
+140102,Pre-engineering,NSTEM
+140301,Agricultural/biological engineering and bioengineering,NSTEM
+140401,Architectural engineering,NSTEM
+140601,Ceramic sciences and engineering,NSTEM
+140901,"Computer engineering, general",NSTEM
+140902,Computer hardware engineering,NSTEM
+140903,Computer software engineering,NSTEM
+140999,"Computer engineering, other",NSTEM
+141101,Engineering mechanics,NSTEM
+141201,Engineering physics,NSTEM
+141301,Engineering science,NSTEM
+141401,Environmental/environmental health engineering,NSTEM
+142001,Metallurgical engineering,NSTEM
+142101,Mining and mineral engineering,NSTEM
+142201,Naval architecture and marine engineering,NSTEM
+142301,Nuclear engineering,NSTEM
+142401,Ocean engineering,NSTEM
+142501,Petroleum engineering,NSTEM
+142701,Systems engineering,NSTEM
+142801,Textile sciences and engineering,NSTEM
+143201,Polymer/plastics engineering,NSTEM
+143301,Construction engineering,NSTEM
+143401,Forest engineering,NSTEM
+143701,Operations research,NSTEM
+143801,Surveying engineering,NSTEM
+143901,Geological/geophysical engineering,NSTEM
+144001,Paper science and engineering,NSTEM
+144101,Electromechanical engineering,NSTEM
+144201,"Mechatronics, robotics, and automation engineering",NSTEM
+144301,Biochemical engineering,NSTEM
+144401,Engineering chemistry,NSTEM
+144501,Biological/biosystems engineering,NSTEM
+149999,"Engineering, other",NSTEM
+450702,Cartography,NSTEM
+450201,Anthropology,nsfstem
+450202,Physical anthropology,nsfstem
+450203,Medical anthropology,nsfstem
+450204,Cultural anthropology,nsfstem
+450299,"Anthropology, other",nsfstem
+450601,"Economics, general",nsfstem
+450602,Applied economics,nsfstem
+450603,Econometrics and quantitative economics,nsfstem
+450604,Development economics and international development,nsfstem
+450605,International economics,nsfstem
+450699,"Economics, other",nsfstem
+451001,"Political science and government, general",nsfstem
+451002,American government and politics (United States),nsfstem
+451004,Political economy,nsfstem
+451099,"Political science and government, other",nsfstem
+420101,"Psychology, general",nsfstem
+422701,Cognitive psychology and psycholinguistics,nsfstem
+422702,Comparative psychology,nsfstem
+422703,Developmental and child psychology,nsfstem
+422704,Experimental psychology,nsfstem
+422705,Personality psychology,nsfstem
+422706,Physiological psychology/psychobiology,nsfstem
+422707,Social psychology,nsfstem
+422708,Psychometrics and quantitative psychology,nsfstem
+422709,Psychopharmacology,nsfstem
+422799,"Research and experimental psychology, other",nsfstem
+422801,Clinical psychology,nsfstem
+422802,Community psychology,nsfstem
+422803,Counseling psychology,nsfstem
+422804,Industrial and organizational psychology,nsfstem
+422807,Clinical child psychology,nsfstem
+422808,Environmental psychology,nsfstem
+422809,Geropsychology,nsfstem
+42281,Health/medical psychology,nsfstem
+422811,Family psychology,nsfstem
+422812,Forensic psychology,nsfstem
+422813,Applied psychology,nsfstem
+422814,Applied behavior analysis,nsfstem
+422899,"Clinical, counseling and applied psychology, other",nsfstem
+429999,"Psychology, other",nsfstem
+511507,Psychoanalysis and psychotherapy,nsfstem
+451101,Sociology,nsfstem
+451301,Sociology and anthropology,nsfstem
+451401,Rural sociology,nsfstem
+50101,African studies,nsfstem
+50102,American/United States studies/civilization,nsfstem
+50103,Asian studies/civilization,nsfstem
+50104,East Asian studies,nsfstem
+50105,Central/Middle and Eastern European studies,nsfstem
+50106,European studies/civilization,nsfstem
+50107,Latin American studies,nsfstem
+50108,Near and Middle Eastern studies,nsfstem
+50109,Pacific Area/Pacific Rim studies,nsfstem
+5011,Russian studies,nsfstem
+50111,Scandinavian studies,nsfstem
+50112,South Asian studies,nsfstem
+50113,Southeast Asian studies,nsfstem
+50114,Western European studies,nsfstem
+50115,Canadian studies,nsfstem
+50118,Slavic studies,nsfstem
+50119,Caribbean Studies,nsfstem
+5012,Ural-Altaic and Central Asian studies,nsfstem
+50121,Commonwealth studies,nsfstem
+50122,"Regional studies (US, Canadian, foreign)",nsfstem
+50123,Chinese studies,nsfstem
+50124,French studies,nsfstem
+50125,German studies,nsfstem
+50126,Italian studies,nsfstem
+50127,Japanese studies,nsfstem
+50128,Korean studies,nsfstem
+5013,Spanish and Iberian studies,nsfstem
+50131,Tibetan studies,nsfstem
+50133,Irish studies,nsfstem
+50134,Latin American and Caribbean studies,nsfstem
+50199,"Area studies, other",nsfstem
+502,Ethnic studies,nsfstem
+50201,African-American/black studies,nsfstem
+50202,American Indian/Native American studies,nsfstem
+50203,"Hispanic-American, Puerto Rican, and Mexican-American/Chicano studies",nsfstem
+50206,Asian-American studies,nsfstem
+50207,Women's studies,nsfstem
+50208,Gay/lesbian studies,nsfstem
+50209,Folklore studies,nsfstem
+5021,Disability studies,nsfstem
+50211,Deaf studies,nsfstem
+50299,"Ethnic, cultural minority, and gender studies, other",nsfstem
+59999,"Area, ethnic, cultural, and gender studies, other",nsfstem
+160102,Linguistics,nsfstem
+160105,Applied linguistics,nsfstem
+160199,"Linguistic, Comparative, and Related Language Studies and Services, Other",nsfstem
+161602,"Linguistic, comparative, and related language studies and services, other",nsfstem
+301101,Gerontology,nsfstem
+301701,Behavioral sciences,nsfstem
+302001,International/global studies,nsfstem
+302301,Intercultural/multicultural and diversity studies,nsfstem
+440501,Public policy analysis,nsfstem
+440502,Education policy analysis,nsfstem
+440503,Health policy analysis,nsfstem
+440504,International policy analysis,nsfstem
+440599,"Public policy analysis, other",nsfstem
+450101,"Social sciences, general",nsfstem
+450102,Research methodology and quantitative methods,nsfstem
+450401,Criminology,nsfstem
+450501,Demography and population studies,nsfstem
+450701,Geography,nsfstem
+450799,"Geography, other",nsfstem
+450901,International relations and affairs,nsfstem
+450902,National security policy studies,nsfstem
+450999,"International relations and national security studies, other",nsfstem
+451201,Urban studies/affairs,nsfstem
+459999,"Social sciences, other",nsfstem
+513201,Bioethics/medical ethics,nsfstem
+130101,"Education, general",nonstem
+130201,Bilingual and multilingual education,nonstem
+130202,Multicultural education,nonstem
+130203,Indian/Native American education,nonstem
+130299,"Bilingual, multilingual, and multicultural education, other",nonstem
+130301,Curriculum and instruction,nonstem
+130401,"Educational leadership and administration, general",nonstem
+130402,Administration of special education,nonstem
+130403,Adult and continuing education administration,nonstem
+130404,"Educational, instructional, and curriculum supervision",nonstem
+130406,Higher education/higher education administration,nonstem
+130407,Community college education,nonstem
+130408,Elementary and middle school administration/principalship,nonstem
+130409,Secondary school administration/principalship,nonstem
+13041,Urban education and leadership,nonstem
+130411,Superintendency and educational system administration,nonstem
+130499,"Educational administration and supervision, other",nonstem
+130501,Educational/instructional media design,nonstem
+130601,Educational evaluation and research,nonstem
+130603,Educational statistics and research methods,nonstem
+130604,"Educational assessment, testing, and measurement",nonstem
+130607,Learning sciences,nonstem
+130699,"Educational assessment, evaluation, and research, other",nonstem
+130701,International and comparative education,nonstem
+130901,Social and philosophical foundations of education,nonstem
+131001,"Special education and teaching, general",nonstem
+131003,"Education/teaching individuals with hearing impairments, including deafness",nonstem
+131004,Education/teaching of the gifted and talented,nonstem
+131005,Education/teaching of individuals with emotional disturbances,nonstem
+131006,Education/teaching of individuals with mental retardation,nonstem
+131007,Education/teaching of individuals with multiple disabilities,nonstem
+131008,"Education/teaching individuals with orthopedic, other physical impairments",nonstem
+131009,"Education/teaching individuals with vision impairments, including blindness",nonstem
+131011,Education/teaching of individuals with specific learning disabilities,nonstem
+131012,Education/teaching of individuals with speech or language impairments,nonstem
+131013,Education/teaching of individuals with autism,nonstem
+131014,Education/teaching of individuals who are developmentally delayed,nonstem
+131015,Education/teaching of individuals in early childhood special education programs,nonstem
+131017,Education/teaching of individuals in elementary special education programs,nonstem
+131018,Education/teaching of individuals in jr high/middle school special ed programs,nonstem
+131019,Education/teaching of individuals in secondary special education programs,nonstem
+131099,"Special education and teaching, other",nonstem
+131101,Counselor education/school counseling and guidance services,nonstem
+131102,College student counseling and personnel services,nonstem
+131199,"Student counseling and personnel services, other",nonstem
+131201,Adult and continuing education and teaching,nonstem
+131202,Elementary education and teaching,nonstem
+131203,Junior high/intermediate/middle school education and teaching,nonstem
+131205,Secondary education and teaching,nonstem
+131206,"Teacher education, multiple levels",nonstem
+131207,Montessori teacher education,nonstem
+131208,Waldorf/steiner teacher education,nonstem
+131209,Kindergarten/preschool education and teaching,nonstem
+13121,Early childhood education and teaching,nonstem
+131299,"Teacher education and professional development, specific levels and methods, other",nonstem
+131301,Agricultural teacher education,nonstem
+131302,Art teacher education,nonstem
+131303,Business teacher education,nonstem
+131304,Driver and safety teacher education,nonstem
+131305,English/language arts teacher education,nonstem
+131306,Foreign language teacher education,nonstem
+131307,Health teacher education,nonstem
+131308,Family and consumer sciences/home economics teacher education,nonstem
+131309,Technology teacher education/industrial arts teacher education,nonstem
+13131,Sales and marketing operations/marketing and distribution teacher education,nonstem
+131311,Mathematics teacher education,nonstem
+131312,Music teacher education,nonstem
+131314,Physical education teaching and coaching,nonstem
+131315,Reading teacher education,nonstem
+131316,Science teacher education/general science teacher education,nonstem
+131317,Social science teacher education,nonstem
+131318,Social studies teacher education,nonstem
+131319,Technical teacher education,nonstem
+13132,Trade and industrial teacher education,nonstem
+131321,Computer teacher education,nonstem
+131322,Biology teacher education,nonstem
+131323,Chemistry teacher education,nonstem
+131324,Drama and dance teacher education,nonstem
+131325,French language teacher education,nonstem
+131326,German language teacher education,nonstem
+131327,Health occupations teacher education,nonstem
+131328,History teacher education,nonstem
+131329,Physics teacher education,nonstem
+13133,Spanish language teacher education,nonstem
+131331,Speech teacher education,nonstem
+131332,Geography teacher education,nonstem
+131333,Latin teacher education,nonstem
+131334,School librarian/school library media specialist,nonstem
+131335,Psychology teacher education,nonstem
+131337,Earth science teacher education,nonstem
+131338,Environmental education,nonstem
+131399,"Teacher education and professional development, specific subject areas, other",nonstem
+131401,Teaching English as a second or foreign language/esl language instructor,nonstem
+131402,Teaching French as a second or foreign language,nonstem
+131499,"Teaching English or French as a second or foreign language, other",nonstem
+131501,Teacher assistant/aide,nonstem
+131502,Adult literacy tutor/instructor,nonstem
+131599,"Teaching Assistants/Aides, Other",nonstem
+139999,"Education, other",nonstem
+310501,"Health and physical education, general",nonstem
+310504,Sport and fitness administration/management,nonstem
+310599,"Health and physical education/fitness, other",nonstem
+310601,Outdoor education,nonstem
+390401,Religious education,nonstem
+422805,School psychology,nonstem
+422806,Educational psychology,nonstem
+510913,Athletic training/trainer,nonstem
+160101,"Foreign languages and literatures, general",nonstem
+160103,Language interpretation and translation,nonstem
+160104,Comparative literature,nonstem
+160201,"African languages, literatures, and linguistics",nonstem
+1603,"East Asian languages, literatures, and linguistics, general",nonstem
+160301,Chinese language and literature,nonstem
+160302,Japanese language and literature,nonstem
+160303,Korean language and literature,nonstem
+160399,"East Asian languages, literatures, and linguistics, other",nonstem
+1604,"Slavic, Baltic, and Albanian languages, literatures, and linguistics, general",nonstem
+160402,Russian language and literature,nonstem
+160406,Czech language and literature,nonstem
+160407,Polish language and literature,nonstem
+160408,"Bosnian, Serbian, and Croatian Languages and Literatures",nonstem
+160499,"Slavic, Baltic, and Albanian languages, literatures, and linguistics, other",nonstem
+1605,"Germanic languages, literatures, and linguistics, general",nonstem
+160501,German language and literature,nonstem
+160502,"Scandinavian languages, literatures, and linguistics",nonstem
+160503,Danish language and literature,nonstem
+160504,Dutch/Flemish language and literature,nonstem
+160505,Norwegian language and literature,nonstem
+160506,Swedish language and literature,nonstem
+160599,"Germanic languages, literatures, and linguistics, other",nonstem
+160601,Modern Greek language and literature,nonstem
+1607,"South Asian languages, literatures, and linguistics, general",nonstem
+160701,Hindi Language and Literature,nonstem
+160702,"Sanskrit and classical Indian languages, literatures, and linguistics",nonstem
+160801,"Iranian/Persian languages, literatures, and linguistics",nonstem
+1609,"Romance languages, literatures, and linguistics, general",nonstem
+160901,French language and literature,nonstem
+160902,Italian language and literature,nonstem
+160904,Portuguese language and literature,nonstem
+160905,Spanish language and literature,nonstem
+160906,Romanian language and literature,nonstem
+160908,"Hispanic and Latin American languages, literatures, and linguistics, general",nonstem
+160999,"Romance languages, literatures, and linguistics, other",nonstem
+161001,"American Indian/Native American languages, literatures, and linguistics",nonstem
+1611,"Middle/Near Eastern and Semitic languages, literatures, and linguistics, general",nonstem
+161101,Arabic language and literature,nonstem
+161102,Hebrew language and literature,nonstem
+161103,"Ancient Near Eastern and biblical languages, literatures, and linguistics",nonstem
+161199,"Middle/Near Eastern and Semitic languages, literatures, and linguistics, other",nonstem
+1612,"Classics and classical languages, literatures, and linguistics, general",nonstem
+161202,Ancient/classical Greek language and literature,nonstem
+161203,Latin language and literature,nonstem
+161299,"Classics and classical languages, literatures, and linguistics, other",nonstem
+161301,"Celtic languages, literatures, and linguistics",nonstem
+161402,Indonesian/Malay Languages and Literatures,nonstem
+161404,Filipino/Tagalog language and literature,nonstem
+161501,Turkish language and literature,nonstem
+161502,"Finnish and related languages, literatures, and linguistics",nonstem
+169999,"Foreign languages, literatures, and linguistics, other",nonstem
+230101,"English language and literature, general",nonstem
+230401,English composition,nonstem
+231001,Speech and rhetorical studies,nonstem
+231301,"Writing, general",nonstem
+231302,Creative writing,nonstem
+231303,"Professional, technical, business, and scientific writing",nonstem
+231304,Rhetoric and composition,nonstem
+231399,"Rhetoric and composition/writing studies, other",nonstem
+231401,General literature,nonstem
+231402,American literature (US),nonstem
+231404,English literature (British and Commonwealth),nonstem
+231405,Children's and adolescent literature,nonstem
+231499,"Literature, other",nonstem
+239999,"English language and literature/letters, other",nonstem
+240101,Liberal arts and sciences/liberal studies,nonstem
+240102,General studies,nonstem
+240103,Humanities/humanistic studies,nonstem
+240199,"Liberal arts and sciences, general studies and humanities, other",nonstem
+301301,Medieval and renaissance studies,nonstem
+301501,"Science, technology and society",nonstem
+302201,Ancient studies/civilization,nonstem
+302202,"Classical, ancient Mediterranean and Near Eastern studies",nonstem
+380001,"Philosophy and religious studies, general",nonstem
+380101,Philosophy,nonstem
+380102,Logic,nonstem
+380103,Ethics,nonstem
+380104,Applied and professional ethics,nonstem
+380199,"Philosophy, other",nonstem
+380201,Religion/religious studies,nonstem
+380202,Buddhist studies,nonstem
+380203,Christian studies,nonstem
+380204,Hindu Studies,nonstem
+380205,Islamic studies,nonstem
+380206,Jewish/Judaic studies,nonstem
+380299,"Religion/religious studies, other",nonstem
+389999,"Philosophy and religious studies, other",nonstem
+390201,Bible/biblical studies,nonstem
+390301,Missions/missionary studies and missiology,nonstem
+390501,Religious/sacred music,nonstem
+390601,Theology/theological studies,nonstem
+390602,Divinity/ministry,nonstem
+390604,Pre-theology/pre-ministerial studies,nonstem
+390605,Rabbinical studies,nonstem
+390606,Talmudic studies,nonstem
+390699,"Theological and ministerial studies, other",nonstem
+390701,Pastoral studies/counseling,nonstem
+390702,Youth ministry,nonstem
+390703,Urban ministry,nonstem
+390704,Women's ministry,nonstem
+390705,Lay ministry,nonstem
+390799,"Pastoral counseling and specialized ministries, other",nonstem
+399999,"Theology and religious vocations, other",nonstem
+450301,Archeology,nonstem
+500101,"Visual and performing arts, general",nonstem
+500102,Digital arts,nonstem
+500201,"Crafts/craft design, folk art, and artisanry",nonstem
+500301,"Dance, general",nonstem
+500302,Ballet,nonstem
+500399,"Dance, other",nonstem
+500401,"Design and visual communications, general",nonstem
+500402,Commercial and advertising art,nonstem
+500404,Industrial design,nonstem
+500406,Commercial photography,nonstem
+500407,Fashion/apparel design,nonstem
+500408,Interior design,nonstem
+500409,Graphic design,nonstem
+50041,Illustration,nonstem
+500411,Game and interactive media design,nonstem
+500499,"Design and applied arts, other",nonstem
+500501,"Drama and dramatics/theatre arts, general",nonstem
+500502,Technical theatre/theatre design and technology,nonstem
+500504,Playwriting and screenwriting,nonstem
+500505,"Theatre literature, history, and criticism",nonstem
+500506,Acting,nonstem
+500507,Directing and theatrical production,nonstem
+500509,Musical theatre,nonstem
+50051,Costume design,nonstem
+500599,"Dramatic/theatre arts and stagecraft, other",nonstem
+500601,Film/cinema studies,nonstem
+500602,Cinematography and film/video production,nonstem
+500605,Photography,nonstem
+500607,Documentary production,nonstem
+500699,"Film/video and photographic arts, other",nonstem
+500701,"Art/art studies, general",nonstem
+500702,"Fine/studio arts, general",nonstem
+500703,"Art history, criticism, and conservation",nonstem
+500705,Drawing,nonstem
+500706,Intermedia/multimedia,nonstem
+500708,Painting,nonstem
+500709,Sculpture,nonstem
+50071,Printmaking,nonstem
+500711,Ceramic arts and ceramics,nonstem
+500712,"Fiber, textile, and weaving arts",nonstem
+500713,Metal and jewelry arts,nonstem
+500799,"Fine arts and art studies, other",nonstem
+500901,"Music, general",nonstem
+500902,"Music history, literature, and theory",nonstem
+500903,"Music performance, general",nonstem
+500904,Music theory and composition,nonstem
+500905,Musicology and ethnomusicology,nonstem
+500906,Conducting,nonstem
+500907,Piano and organ,nonstem
+500908,Voice and opera,nonstem
+50091,Jazz/jazz studies,nonstem
+500911,"Violin, viola, guitar, and other stringed instruments",nonstem
+500912,Music pedagogy,nonstem
+500913,Music technology,nonstem
+500914,Brass instruments,nonstem
+500915,Woodwind instruments,nonstem
+500916,Percussion instruments,nonstem
+500999,"Music, other",nonstem
+501001,"Arts, entertainment,and media management, general",nonstem
+501002,Fine and studio arts management,nonstem
+501004,Theatre/theatre arts management,nonstem
+501099,"Arts, entertainment, and media management, other",nonstem
+509999,"Visual and performing arts, other",nonstem
+511506,Clinical pastoral counseling/patient counseling,nonstem
+540101,"History, general",nonstem
+540102,American (US) history,nonstem
+540103,European history,nonstem
+540104,History and philosophy of science and technology,nonstem
+540106,Asian history,nonstem
+540108,Military history,nonstem
+540199,"History, other",nonstem
+100105,Communications technology/technician,nonstem
+100201,Photographic and film/video technology/technician and assistant,nonstem
+100202,Radio and television broadcasting technology/technician,nonstem
+100203,Recording arts technology/technician,nonstem
+100299,"Audiovisual communications technologies/technicians, other",nonstem
+109999,"Communications technologies/technicians and support services, other",nonstem
+15,"Engineering technology, general",nonstem
+150101,Architectural engineering technology/technician,nonstem
+150201,Civil engineering technology/technician,nonstem
+150303,"Electrical, electronic and communications engineering technology/technician",nonstem
+150304,Laser and optical technology/technician,nonstem
+150305,Telecommunications technology/technician,nonstem
+150306,Integrated Circuit Design,nonstem
+150399,"Electrical and electronic engineering technologies/technicians, other",nonstem
+150401,Biomedical technology/technician,nonstem
+150403,Electromechanical technology/electromechanical engineering technology,nonstem
+150404,Instrumentation technology/technician,nonstem
+150405,Robotics technology/technician,nonstem
+150406,Automation engineer technology/technician,nonstem
+150499,Electromechanical and instrumentation and maintenance technologies/technicians,nonstem
+150501,"Heating, air conditioning, and refrigeration technology/technician (ach/acr/achr/hr)",nonstem
+150503,Energy management and systems technology/technician,nonstem
+150505,Solar energy technology/technician,nonstem
+150506,Water quality and wastewater treatment management and recycling technology,nonstem
+150507,Environmental engineering technology/environmental technology,nonstem
+150508,Hazardous materials management and waste technology/technician,nonstem
+150599,"Environmental control technologies/technicians, other",nonstem
+150607,Plastics engineering technology/technician,nonstem
+150611,Metallurgical technology/technician,nonstem
+150612,Industrial technology/technician,nonstem
+150613,Manufacturing technology/technician,nonstem
+150614,Welding engineering technology/technician,nonstem
+150615,Chemical Engineering Technology/Technician,nonstem
+150699,"Industrial production technologies/technicians, other",nonstem
+150701,Occupational safety and health technology/technician,nonstem
+150702,Quality control technology/technician,nonstem
+150703,Industrial safety technology/technician,nonstem
+150799,"Quality control and safety technologies/technicians, other",nonstem
+150801,Aeronautical/aerospace engineering technology/technician,nonstem
+150803,Automotive engineering technology/technician,nonstem
+150805,Mechanical engineering/mechanical technology/technician,nonstem
+150899,"Mechanical engineering–related technologies/technicians, other",nonstem
+150901,Mining technology/technician,nonstem
+150903,Petroleum technology/technician,nonstem
+150999,"Mining and petroleum technologies/technicians, other",nonstem
+151001,Construction engineering technology/technician,nonstem
+151102,Survey technology/surveying,nonstem
+151103,Hydraulics and fluid power technology/technician,nonstem
+151199,"Engineering-related technologies, other",nonstem
+151201,Computer engineering technology/technician,nonstem
+151202,Computer technology/computer systems technology,nonstem
+151203,Computer hardware technology/technician,nonstem
+151204,Computer software technology/technician,nonstem
+151299,"Computer engineering technologies/technicians, other",nonstem
+151301,"Drafting and design technology/technician, general",nonstem
+151302,Cad/cadd drafting and/or design technology/technician,nonstem
+151303,Architectural drafting and architectural cad/cadd,nonstem
+151304,Civil drafting and civil engineering cad/cadd,nonstem
+151305,Electrical/electronics drafting and electrical/electronics cad/cadd,nonstem
+151306,Mechanical drafting and mechanical drafting cad/cadd,nonstem
+151399,"Drafting/design engineering technologies/technicians, other",nonstem
+151401,Nuclear engineering technology/technician,nonstem
+151502,Engineering design,nonstem
+151503,Packaging science,nonstem
+151599,"Engineering-related fields, other",nonstem
+151601,Nanotechnology,nonstem
+159999,"Engineering technologies/technicians, other",nonstem
+161601,American Sign Language (ASL),nonstem
+161603,Sign language interpretation and translation,nonstem
+161699,"American Sign Language, other",nonstem
+290101,Military technologies,nonstem
+290201,"Intelligence, general",nonstem
+290202,Strategic intelligence,nonstem
+290207,Cyber/electronic operations and warfare,nonstem
+290299,"Intelligence, command control and information operations, other",nonstem
+290399,"Military applied sciences, other",nonstem
+290401,Aerospace Ground Equipment Technology,nonstem
+290402,Air and Space Operations Technology,nonstem
+290499,"Military systems and maintenance technology, other",nonstem
+299999,"Military technologies and applied sciences, other",nonstem
+41,"Science technologies/technicians, general",nonstem
+410101,Biology technician/biotechnology laboratory technician,nonstem
+410205,Nuclear/nuclear power technology/technician,nonstem
+410299,"Nuclear and industrial radiologic technologies/technicians,  other",nonstem
+410301,Chemical technology/technician,nonstem
+410399,"Physical science technologies/technicians, other",nonstem
+419999,"Science technologies/technicians, other",nonstem
+480508,Welding technology/welder,nonstem
+510601,Dental assisting/assistant,nonstem
+510602,Dental hygiene/hygienist,nonstem
+510603,Dental laboratory technology/technician,nonstem
+510699,"Dental services and allied professions, other",nonstem
+510703,Health unit coordinator/ward clerk,nonstem
+510704,Health unit manager/ward supervisor,nonstem
+510705,Medical office management/administration,nonstem
+510707,Health information/medical records technology/technician,nonstem
+51071,Medical office assistant/specialist,nonstem
+510711,Medical/health management and clinical assistant/specialist,nonstem
+510713,Medical insurance coding specialist/coder,nonstem
+510719,Clinical research coordinator,nonstem
+510801,Medical/clinical assistant,nonstem
+510802,Clinical/medical laboratory assistant,nonstem
+510803,Occupational therapist assistant,nonstem
+510805,Pharmacy technician/assistant,nonstem
+510806,Physical therapy technician/assistant,nonstem
+510808,Veterinary/animal health technology/technician and veterinary assistant,nonstem
+51081,Emergency care attendant (emt ambulance),nonstem
+510811,Pathology/pathologist assistant,nonstem
+510812,Respiratory therapy technician/assistant,nonstem
+510814,Radiologist assistant,nonstem
+510899,"Health/medical assisting services, other",nonstem
+510901,Cardiovascular technology/technologist,nonstem
+510902,Electrocardiograph technology/technician,nonstem
+510903,Electroneurodiagnostic/electroencephalographic technology/technologist,nonstem
+510904,Emergency medical technology/technician (emt paramedic),nonstem
+510905,Nuclear medical technology/technologist,nonstem
+510906,Perfusion technology/perfusionist,nonstem
+510907,Medical radiologic technology/science – radiation therapist,nonstem
+510908,Respiratory care therapy/therapist,nonstem
+510909,Surgical technology/technologist,nonstem
+51091,Diagnostic medical sonography/sonographer and ultrasound  technician,nonstem
+510911,Radiologic technology/science – radiographer,nonstem
+510912,Physician assistant,nonstem
+510999,"Allied health diagnostic, intervention, and treatment professions, other",nonstem
+511001,Blood bank technology specialist,nonstem
+511002,Cytotechnology/cytotechnologist,nonstem
+511003,Hematology technology/technician,nonstem
+511004,Clinical/medical laboratory technician,nonstem
+511005,Clinical laboratory science/medical technology/technologist,nonstem
+511007,Histologic technology/histotechnologist,nonstem
+511008,Histologic technician,nonstem
+51101,Cytogenetics/genetics/clinical genetics technology/technologist,nonstem
+511099,"Clinical/medical laboratory science and allied professions, other",nonstem
+511199,"Health/medical preparatory programs, other",nonstem
+511501,Substance abuse/addiction counseling,nonstem
+511502,Psychiatric/mental health services technician,nonstem
+511504,Community health services/liaison/counseling,nonstem
+511508,Mental health counseling/counselor,nonstem
+511509,Genetic counseling/counselor,nonstem
+511599,"Mental and social health services and allied professions, other",nonstem
+511803,Ophthalmic technician/technologist,nonstem
+511804,Orthoptics/orthoptist,nonstem
+511899,"Ophthalmic and optometric support services and alliedprofessions, other",nonstem
+512301,Art therapy/therapist,nonstem
+512302,Dance therapy/therapist,nonstem
+512305,Music therapy/therapist,nonstem
+512307,Orthotist/prosthetist,nonstem
+512309,Therapeutic recreation/ recreational therapy,nonstem
+51231,Vocational rehabilitation counseling/counselor,nonstem
+512399,"Rehabilitation and therapeutic professions, other",nonstem
+512703,Medical illustration/medical illustrator,nonstem
+512706,Medical informatics,nonstem
+512799,"Medical illustration and informatics, other",nonstem
+513103,Dietetic technician,nonstem
+513601,Movement therapy and movement education,nonstem
+513901,Family practice nurse/nursing,nonstem
+513902,Family practice nurse/nursing,nonstem
+10101,"Agricultural business and management, general",nonstem
+10102,Agribusiness/agricultural business operations,nonstem
+10104,Farm/farm and ranch management,nonstem
+10105,Agricultural/farm supplies retailing and wholesaling,nonstem
+10106,Agricultural business technology,nonstem
+10199,"Agricultural business and management, other",nonstem
+10201,"Agricultural mechanization, general",nonstem
+10205,Agricultural mechanics and equipment/machine technology,nonstem
+10299,"Agricultural mechanization, other",nonstem
+10301,"Agricultural production operations, general",nonstem
+10302,Animal/livestock husbandry and production,nonstem
+10303,Aquaculture,nonstem
+10304,Crop production,nonstem
+10306,Dairy husbandry and production,nonstem
+10307,Horse husbandry/equine science and management,nonstem
+10309,Viticulture and enology,nonstem
+10401,Agricultural and food products processing,nonstem
+10507,Equestrian/equine studies,nonstem
+10599,"Agricultural and domestic animals services, other",nonstem
+10601,"Applied horticulture/horticultural operations, general",nonstem
+10603,Ornamental horticulture,nonstem
+10605,Landscaping and groundskeeping,nonstem
+10606,Plant nursery operations and management,nonstem
+10607,Turf and turfgrass management,nonstem
+10608,Floriculture/floristry operations and management,nonstem
+10699,"Applied horticulture/horticultural business services, other",nonstem
+10701,International agriculture,nonstem
+30511,Forestry technology/technician,nonstem
+40201,Architecture,nonstem
+40301,"City/urban, community, and regional planning",nonstem
+40401,Environmental design/architecture,nonstem
+40501,Interior architecture,nonstem
+40601,Landscape architecture,nonstem
+40801,"Architectural history and criticism, general",nonstem
+40901,Architectural technology/technician,nonstem
+40902,Architectural and building sciences/technology,nonstem
+40999,"Architectural sciences and technology, other",nonstem
+41001,Real estate development,nonstem
+49999,"Architecture and related services, other",nonstem
+901,"Communication, general",nonstem
+90101,Communication studies/speech communication and rhetoric,nonstem
+90102,Mass communication/media studies,nonstem
+90199,"Communication and media studies, other",nonstem
+90401,Journalism,nonstem
+90402,Broadcast journalism,nonstem
+90404,Photojournalism,nonstem
+90499,"Journalism, other",nonstem
+90701,Radio and television,nonstem
+90702,Digital communication and media/multimedia,nonstem
+90799,"Radio, television, and digital communication, other",nonstem
+909,"Public relations, advertising, and applied communication",nonstem
+90901,"Organizational communication, general",nonstem
+90902,Public relations/image management,nonstem
+90903,Advertising,nonstem
+90904,Political communication,nonstem
+90905,Health communication,nonstem
+90906,Sports communication,nonstem
+90907,International and intercultural communication,nonstem
+90908,Technical and scientific communication,nonstem
+90999,"Public relations, advertising, and applied communication, other",nonstem
+91001,Publishing,nonstem
+99999,"Communication, journalism, and related programs, other",nonstem
+100301,"Graphic communications, general",nonstem
+100302,Printing management,nonstem
+100303,Prepress/desktop publishing and digital imaging design,nonstem
+100304,"Animation, interactive technology, video graphics, and special effects",nonstem
+100305,"Graphic and printing equipment operator, general production",nonstem
+100307,Printing press operator,nonstem
+100399,"Graphic communications, other",nonstem
+120301,"Funeral service and mortuary science, general",nonstem
+120302,Funeral direction/service,nonstem
+120401,"Cosmetology/cosmetologist, general",nonstem
+1205,"Cooking and related culinary arts, general",nonstem
+120501,Baking and pastry arts/baker/pastry chef,nonstem
+120502,Bartending/bartender,nonstem
+120503,Culinary arts/chef training,nonstem
+120504,"Restaurant, culinary, and catering management/manager",nonstem
+120505,Food preparation/professional cooking/kitchen assistant,nonstem
+120507,"Food service, waiter/waitress, and dining room management/manager",nonstem
+120508,Institutional food workers,nonstem
+120509,Culinary science/culinology,nonstem
+120599,"Culinary arts and related services, other",nonstem
+129999,"Personal and culinary services, other",nonstem
+19,"Work and family studies, general",nonstem
+190101,"Family and consumer sciences/human sciences, general",nonstem
+190201,Business family and consumer sciences/human sciences,nonstem
+190202,Family and consumer sciences/human sciences communication,nonstem
+190203,Consumer merchandising/retailing management,nonstem
+190299,"Family and consumer sciences/human sciences business services, other",nonstem
+190401,"Family resource management studies, general",nonstem
+190402,Consumer economics,nonstem
+190403,Consumer services and advocacy,nonstem
+190499,"Family and consumer economics and related services, other",nonstem
+190501,"Foods, nutrition, and wellness studies, general",nonstem
+190504,Human nutrition,nonstem
+190599,"Foods, nutrition, and related services, other",nonstem
+190601,"Housing and human environments, general",nonstem
+190604,Facilities planning and management,nonstem
+190699,"Housing and human environments, other",nonstem
+190701,"Human development and family studies, general",nonstem
+190702,Adult development and aging,nonstem
+190704,Family systems,nonstem
+190706,Child development,nonstem
+190707,Family and community services,nonstem
+190708,Child care and support services management,nonstem
+190709,Child care provider/assistant,nonstem
+19071,Developmental Services Worker,nonstem
+190799,"Human development, family studies, and related services, other",nonstem
+190901,"Apparel and textiles, general",nonstem
+190902,Apparel and textile manufacture,nonstem
+190904,Textile science,nonstem
+190905,Apparel and textile marketing management,nonstem
+190906,Fashion and fabric consultant,nonstem
+190999,"Apparel and textiles, other",nonstem
+199999,"Family and consumer sciences/human sciences, other",nonstem
+22,Non-professional general legal studies (undergraduate),nonstem
+220001,Pre-law studies,nonstem
+220101,Law,nonstem
+220201,"Advanced legal research/studies, general ",nonstem
+220202,Programs for foreign lawyers,nonstem
+220203,American/US law/legal studies/jurisprudence,nonstem
+220205,"Banking, corporate, finance, and securities law",nonstem
+220206,Comparative law,nonstem
+220207,"Energy, environment, and natural resources law",nonstem
+220208,Health law,nonstem
+220209,International law and legal studies,nonstem
+22021,"International business, trade, and tax law",nonstem
+220211,Tax law/taxation,nonstem
+220212,Intellectual property law,nonstem
+220299,"Legal research and advanced professional studies (post-LLB/JD), other",nonstem
+220301,Legal administrative assistant/secretary,nonstem
+220302,Legal assistant/paralegal,nonstem
+220303,Court reporting/court reporter,nonstem
+220399,"Legal support services, other",nonstem
+229999,"Legal professions and studies, other",nonstem
+250101,Library science/librarianship,nonstem
+250102,Children and Youth Library Services,nonstem
+250103,Archives/archival administration,nonstem
+259999,"Library science, other",nonstem
+290203,Signal/Geospatial Intelligence,nonstem
+30,"Multi-/interdisciplinary studies, general",nonstem
+300101,Biological and physical sciences,nonstem
+300501,Peace studies and conflict resolution,nonstem
+300601,Systems science and theory,nonstem
+300801,Mathematics and computer science,nonstem
+301201,Historic preservation and conservation,nonstem
+301202,Cultural resource management and policy analysis,nonstem
+301299,"Historic preservation and conservation, other",nonstem
+301401,Museology/museum studies,nonstem
+301601,Accounting and computer science,nonstem
+301801,Natural sciences,nonstem
+302101,Holocaust and related studies,nonstem
+302501,Cognitive science,nonstem
+302601,Cultural studies/critical theory and analysis,nonstem
+302701,Human biology,nonstem
+302801,Dispute resolution,nonstem
+302901,Maritime studies,nonstem
+303001,Computational science,nonstem
+303101,Human computer interaction,nonstem
+303301,Sustainability studies,nonstem
+309999,"Multi-/interdisciplinary studies, other",nonstem
+310101,"Parks, recreation, and leisure studies",nonstem
+310301,"Parks, recreation, and leisure facilities management",nonstem
+310302,Golf course operation and grounds management,nonstem
+310399,"Parks, recreation and leisure facilities management, other",nonstem
+310507,Physical fitness technician,nonstem
+310508,Sports studies,nonstem
+319999,"Parks, recreation, leisure, and fitness studies, other",nonstem
+430102,Corrections,nonstem
+430103,Criminal justice/law enforcement administration,nonstem
+430104,Criminal justice/safety studies,nonstem
+430106,Forensic science and technology,nonstem
+430107,Criminal justice/police science,nonstem
+430109,Security and loss prevention services,nonstem
+43011,Juvenile corrections,nonstem
+430111,Criminalistics and criminal science,nonstem
+430112,Securities services administration/management,nonstem
+430113,Corrections administration,nonstem
+430114,Law enforcement investigation and interviewing,nonstem
+430116,Cyber/computer forensics and counterterrorism,nonstem
+430117,Financial forensics and fraud investigation,nonstem
+430118,Law enforcement intelligence analysis,nonstem
+430119,Critical incident response/special police operations,nonstem
+43012,Protective Services Operations,nonstem
+430199,"Corrections and criminal justice, other",nonstem
+430201,Fire protection and safety technology/technician,nonstem
+430202,Fire services administration,nonstem
+430203,Fire science/firefighting,nonstem
+430205,Fire/arson investigation and prevention,nonstem
+430206,Wildland/Forest Firefighting and Investigation,nonstem
+430299,"Fire protection, other",nonstem
+430301,Homeland security,nonstem
+430302,Crisis/emergency/disaster management,nonstem
+430303,Critical infrastructure protection,nonstem
+430303,Terrorism and counterterrorism operations,nonstem
+430304,Terrorism and Counterterrorism Operations,nonstem
+430399,"Homeland security, other",nonstem
+439999,"Security and protective services, other",nonstem
+44,"Human services, general",nonstem
+440201,Community organization and advocacy,nonstem
+440401,Public administration,nonstem
+440701,Social work,nonstem
+440702,Youth services/administration,nonstem
+440799,"Social work, other",nonstem
+449999,"Public administration and social service professions, other",nonstem
+46,"Construction Trades, General",nonstem
+460101,Mason/masonry,nonstem
+460201,Carpentry/carpenter,nonstem
+460302,Electrician,nonstem
+460401,Building/property maintenance and manager,nonstem
+460412,Building/construction site management/manager,nonstem
+460415,Building construction technology,nonstem
+460499,"Building/construction finishing, management, and inspection, other",nonstem
+469999,"Construction trades, other",nonstem
+470101,"Electrical/electronics equipment installation and repair, general",nonstem
+470102,Business machine repairer,nonstem
+470103,Communications systems installation and repair technology,nonstem
+470104,Computer installation and repair technology/technician,nonstem
+470105,Industrial electronics technology/technician,nonstem
+470201,"Heating, air conditioning, ventilation, and refrigeration maintenance tech/technician",nonstem
+470302,Heavy equipment maintenance technology/technician,nonstem
+470603,Autobody/collision and repair technology/technician,nonstem
+470604,Automobile/automotive mechanics technology/technician,nonstem
+470605,Diesel mechanics technology/technician,nonstem
+470607,Airframe mechanics and aircraft maintenance technology/technician,nonstem
+470608,Aircraft powerplant technology/technician,nonstem
+470609,Avionics maintenance technology/technician,nonstem
+470699,"Vehicle maintenance and repair technologies, other",nonstem
+479999,"Mechanic and repair technologies/technicians, other",nonstem
+480507,Tool and die technology/technician,nonstem
+480702,Furniture design and manufacturing,nonstem
+489999,"Precision production, other",nonstem
+490101,"Aeronautics/aviation/aerospace science and technology, general",nonstem
+490102,Airline/commercial/professional pilot and flight crew,nonstem
+490104,Aviation/airway management and operations,nonstem
+490105,Air traffic controller,nonstem
+490106,Airline Flight Attendant,nonstem
+490108,Flight instructor,nonstem
+490199,"Air transportation, other",nonstem
+490299,"Ground Transportation, Other",nonstem
+490309,Marine science/merchant marine officer,nonstem
+499999,"Transportation and materials moving, other",nonstem
+501003,Music management,nonstem
+51,"Health services/allied health/health sciences, general",nonstem
+510716,Medical administrative/executive assistant and medical secretary,nonstem
+510718,Long term care administration/management,nonstem
+511503,Clinical/medical social work,nonstem
+511505,Marriage and family therapy/counseling,nonstem
+513501,Massage therapy/therapeutic massage,nonstem
+520101,"Business/commerce, general",nonstem
+520201,"Business administration and management, general",nonstem
+520202,"Purchasing, procurement/acquisitions and contracts management",nonstem
+520203,Logistics and materials management,nonstem
+520204,Office management and supervision,nonstem
+520205,Operations management and supervision,nonstem
+520206,Non-profit/public/organizational management,nonstem
+520207,Customer service management,nonstem
+520208,E-commerce/electronic commerce,nonstem
+520209,Transportation/transportation management,nonstem
+52021,Research and development management,nonstem
+520211,Project management,nonstem
+520212,Retail management,nonstem
+520213,Organizational leadership,nonstem
+520299,"Business/managerial operations, other",nonstem
+520301,Accounting,nonstem
+520302,Accounting technology/technician and bookkeeping,nonstem
+520303,Auditing,nonstem
+520304,Accounting and finance,nonstem
+520305,Accounting and business/management,nonstem
+520399,"Accounting and related services, other",nonstem
+520401,"Administrative assistant and secretarial science, general",nonstem
+520402,Executive assistant/executive secretary,nonstem
+520407,Business/office automation/technology/data entry,nonstem
+520408,General office occupations and clerical services,nonstem
+520409,"Parts, warehousing, and inventory management operations",nonstem
+52041,"Traffic, Customs, and Transportation Clerk/Technician",nonstem
+520499,"Business operations support and secretarial services, other",nonstem
+520501,Business/corporate communications,nonstem
+520601,Business/managerial economics,nonstem
+520701,Entrepreneurship/entrepreneurial studies,nonstem
+520702,Franchising and franchise operations,nonstem
+520703,Small business administration/management,nonstem
+520799,"Entrepreneurial and small business operations, other",nonstem
+520801,"Finance, general",nonstem
+520803,Banking and financial support services,nonstem
+520804,Financial planning and services,nonstem
+520806,International finance,nonstem
+520807,Investments and securities,nonstem
+520808,Public finance,nonstem
+520809,Credit management,nonstem
+520899,"Finance and financial management services, other",nonstem
+520901,"Hospitality administration/management, general",nonstem
+520903,Tourism and travel services management,nonstem
+520904,Hotel/motel administration/management,nonstem
+520905,Restaurant/food services management,nonstem
+520906,Resort management,nonstem
+520907,Meeting and event planning,nonstem
+520908,Casino management,nonstem
+520909,"Hotel, motel, and restaurant management",nonstem
+520999,"Hospitality administration/management, other",nonstem
+521001,"Human resources management/personnel administration, general",nonstem
+521002,Labor and industrial relations,nonstem
+521003,Organizational behavior studies,nonstem
+521004,Labor studies,nonstem
+521005,Human resources development,nonstem
+521099,"Human resources management and services, other",nonstem
+521101,International business/trade/commerce,nonstem
+521201,"Management information systems, general",nonstem
+521206,Information resources management/cio training,nonstem
+521207,Knowledge management,nonstem
+521299,"Management information systems and services, other",nonstem
+521301,"Management science, general",nonstem
+521399,"Management sciences and quantitative methods, other",nonstem
+521401,"Marketing/marketing management, general",nonstem
+521402,Marketing research,nonstem
+521403,International marketing,nonstem
+521499,"Marketing, other",nonstem
+521501,Real estate,nonstem
+521601,Taxation,nonstem
+521701,Insurance,nonstem
+521801,"Sales, distribution, and marketing operations, general",nonstem
+521802,Merchandising and buying operations,nonstem
+521803,Retailing and retail operations,nonstem
+521804,Selling skills and sales operations,nonstem
+521899,"General merchandising, sales, and related marketing operations, other",nonstem
+521902,Fashion merchandising,nonstem
+521904,Apparel and accessories marketing operations,nonstem
+521905,Tourism and travel services marketing operations,nonstem
+521906,Tourism promotion operations,nonstem
+521907,Vehicle and vehicle parts and accessories marketing operations,nonstem
+521908,Business and personal/financial services marketing operations,nonstem
+521909,Special products marketing operations,nonstem
+52191,Hospitality and recreation marketing operations,nonstem
+521999,"Specialized merchandising, sales, and marketing operations, other",nonstem
+522001,Construction management,nonstem
+522101,Telecommunications management,nonstem
+529999,"Business, management, marketing, and related support services, other",nonstem
+540105,Public/applied history and archival administration,nonstem
+999999,Unknown,Unknown
+512401,Vet Medicine,NSTEM
+510401,Dentistry,NSTEM
+511201,Medicine,NSTEM
+1,"Agriculture, General",NSTEM
+10101,"Agricultural business and management, general",nonstem
+10102,Agribusiness/agricultural business operations,nonstem
+10103,Agricultural economics,nonstem
+10104,Farm/farm and ranch management,nonstem
+10201,"Agricultural Mechanization, General",nonstem
+10301,"Agricultural Production Operations, General",nonstem
+10302,Animal/livestock husbandry and production,nonstem
+10303,Aquaculture,nonstem
+10304,Crop production,nonstem
+10308,Agreoecology and Sustainable Agriculture,nonstem
+10401,Agricultural and food products processing,nonstem
+10507,Equestrian/Equine Studies,nonstem
+10601,"Applied Horticulture/Horticultural Operations, General",nonstem
+10603,Ornamental Horticulture,nonstem
+10605,Landscaping and Groundskeeping,nonstem
+10607,Turf and turfgrass management,nonstem
+10699,"Applied Horticulture/Horticultural Business Services, Other",nonstem
+10701,International Agriculture,nonstem
+10801,Agricultural and extension education services,NSTEM
+10802,Agricultural Communication/Journalism,NSTEM
+10901,"Animal Sciences, General",NSTEM
+10903,Animal Health,NSTEM
+10905,Dairy Science,NSTEM
+10907,Poultry Science,NSTEM
+10999,"Animal Sciences, Other",NSTEM
+11001,Food science,NSTEM
+11002,Food Technology and Processing,NSTEM
+11101,"Plant Sciences, General",NSTEM
+11102,Agronomy and Crop Science,NSTEM
+11103,Horticultural Science,NSTEM
+11106,Range Science and Management,NSTEM
+11199,"Plant Sciences, Other",NSTEM
+11201,"Soil science and agronomy, general",NSTEM
+11202,Soil Chemistry and Physics,NSTEM
+11299,"Soil Sciences, Other",NSTEM
+19999,"Agriculture, Agriculture Operations, and Related Sciences, Other",NSTEM
+30101,"Natural Resources/Conservation, General",NSTEM
+30103,Environmental Studies,NSTEM
+30104,Environmental Science,NSTEM
+30201,Natural Resources Management and Policy,NSTEM
+30204,Natural Resource Economics,NSTEM
+30205,"Water, Wetlands, and Marine Resources Management",NSTEM
+30206,Land use planning and management/development,NSTEM
+30299,"Natural Resources Management and Policy, Other",NSTEM
+30301,Fishing and fisheries sciences and management,NSTEM
+30501,"Forestry, General",NSTEM
+30502,Forest Sciences and Biology,NSTEM
+30506,Forest Management/Forest Resources Management,NSTEM
+30509,Wood Science and Wood Products/Pulp and Paper Technology,NSTEM
+3051,Forest Resources Production and Management,NSTEM
+30511,Forestry Technology/Technician,nonstem
+30599,"Forestry, Other",NSTEM
+30601,Wildlife and Wildlands Science and Management,NSTEM
+40201,"Architecture (BArch, BA/BS, MArch, MA/MS, PhD)",nonstem
+40301,"City/Urban, Community, and Regional Planning",nonstem
+40401,Environmental Design/Architecture,nonstem
+40501,Interior Architecture,nonstem
+40601,Landscape architecture,nonstem
+49999,"Architecture and Related Services, Other",nonstem
+50102,American/United States Studies/Civilization,nsfstem
+50103,Asian Studies/Civilization,nsfstem
+50105,Central/Middle and Eastern European Studies,nsfstem
+50107,Latin American Studies,nsfstem
+50108,Near and Middle Eastern Studies,nsfstem
+5011,Russian Studies,nsfstem
+50125,German Studies,nsfstem
+50126,Italian Studies,nsfstem
+50199,"Area Studies, Other",nsfstem
+502,Ethnic Studies,nsfstem
+50201,African-American/Black Studies,nsfstem
+50202,American Indian/Native American Studies,nsfstem
+50207,Women?s Studies,nonstem
+50299,"Ethnic, Cultural Minority, and Gender Studies, Other",nsfstem
+59999,"Area, Ethnic, Cultural, and Gender Studies, Other",nsfstem
+901,"Communication, General",nonstem
+90101,Communication studies/Speech communication and rhetoric ,nonstem
+90102,Mass Communication/Media Studies,nonstem
+90199,"Communication and media studies, other",nonstem
+90401,Journalism,nonstem
+90402,Broadcast Journalism,nonstem
+90499,"Journalism, Other",nonstem
+90701,Radio and Television,nonstem
+90702,Digital Communication and Media/Multimedia,nonstem
+909,"Public relations, Advertising, and Applied Communication",nonstem
+90901,"Organizational Communication, General",nonstem
+90902,Public relations/Image management,nonstem
+90903,Advertising,nonstem
+90907,International and Intercultural Communiation,nonstem
+99999,"Communication, Journalism, and Related Programs, Other",nonstem
+130504,Educational/Instruction Media Design,nonstem
+143101,Materials Science (401001),NSTEM
+190204,Family and Consumer Sciences/Human Sciences,nonstem
+210199,Technology Education/Industrial Arts,nonstem
+220002,"Legal Studies, General",nonstem
+230501,Creative writing,nonstem
+231101,Technical and business writing,nonstem
+260603,Ecology (261301),NSTEM
+260617,Evolutionary Biology (261303),NSTEM
+260621,Biological and Biomedical Sciences (269999),NSTEM
+260699,Biomedical Sciences/Other Biological Specializations,NSTEM
+260906,Neurobiology and Neurophysiology,NSTEM
+302401,Neuroscience,NSTEM
+320109,Second Language Learning,nonstem
+421101,Physiological Psychology/Psychobiology,nsfstem
+47,"Mechanics and Repairers, General",nonstem
+480501,Machine Tool Technology/Machinist,nonstem
+480503,Machine Shop Technology/Assistant,nonstem
+490109,"Air Transportation, Other",nonstem
+490202,Construction/Heavy Equipment/Earthmoving Equipment Operation,nonstem
+500503,Acting/Directing (500588),nonstem
+500704,Arts Management,nonstem
+511106,Pre-chiropractic Studies,nonstem
+513202,Health Professions Education,nonstem
+514001,Other Health,nonstem
+521703,Insurance,nonstem
